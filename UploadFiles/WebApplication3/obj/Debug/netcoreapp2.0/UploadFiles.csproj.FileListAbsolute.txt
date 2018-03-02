@@ -1,0 +1,10 @@
+C:\Users\Desiree Dias\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.0\UploadFiles.deps.json
+C:\Users\Desiree Dias\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.0\UploadFiles.runtimeconfig.json
+C:\Users\Desiree Dias\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.0\UploadFiles.runtimeconfig.dev.json
+C:\Users\Desiree Dias\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.0\UploadFiles.dll
+C:\Users\Desiree Dias\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.0\UploadFiles.pdb
+C:\Users\Desiree Dias\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.0\UploadFiles.csproj.CoreCompileInputs.cache
+C:\Users\Desiree Dias\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.0\UploadFiles.AssemblyInfoInputs.cache
+C:\Users\Desiree Dias\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.0\UploadFiles.AssemblyInfo.cs
+C:\Users\Desiree Dias\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.0\UploadFiles.dll
+C:\Users\Desiree Dias\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.0\UploadFiles.pdb
