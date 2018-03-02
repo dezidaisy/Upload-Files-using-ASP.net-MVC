@@ -17,5 +17,16 @@
         </div>
     </div>
 
+
 </form>
 
+<div class="col-md-10">
+    <h3>Uploaded Files</h3>
+    <ol>        @{ foreach (string @fn in HomeController.FileList.FileName)
+                {
+                <li>
+                    @fn
+                </li>}
+                  }
+    </ol>
+</div>

@@ -13124,11 +13124,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Desiree Dias\\Desktop\\WebApplication3\\WebApplication3\\UploadFiles.csproj",
+      "projectUniqueName": "C:\\Users\\Desiree Dias\\Desktop\\UploadFiles\\WebApplication3\\UploadFiles.csproj",
       "projectName": "UploadFiles",
-      "projectPath": "C:\\Users\\Desiree Dias\\Desktop\\WebApplication3\\WebApplication3\\UploadFiles.csproj",
+      "projectPath": "C:\\Users\\Desiree Dias\\Desktop\\UploadFiles\\WebApplication3\\UploadFiles.csproj",
       "packagesPath": "C:\\Users\\Desiree Dias\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Desiree Dias\\Desktop\\WebApplication3\\WebApplication3\\obj\\",
+      "outputPath": "C:\\Users\\Desiree Dias\\Desktop\\UploadFiles\\WebApplication3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
